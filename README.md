@@ -6,6 +6,7 @@ notes
 #### vite
 ### 框架
 ### vue
+### React
 ### node
 #### express
 #### koa
