@@ -2,8 +2,9 @@
 notes
 ### 模块化
 #### webpack
-#### gulp
 #### vite
+#### esbuild
+#### gulp
 ### 框架
 #### vue
 #### React
