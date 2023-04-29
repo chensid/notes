@@ -8,6 +8,7 @@ notes
 ### 框架
 #### vue
 #### React
+#### Svelte
 ### 服务端
 ### node
 #### nodejs
